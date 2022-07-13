@@ -1,0 +1,49 @@
+body{
+    background-color: aquamarine;
+    font-size: medium;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{ color: rgb(22, 127, 36);}
+.kis{width: 250;
+border-radius: 50%;}
+.contain { color: grey;
+max-width: 750px;
+margin: auto;}
+.exp{background-color: rgb(189, 181, 241);
+padding: 45px;
+border: 5px solid greenyellow;}
+a{color:rgb(140, 135, 135);text-decoration:none; font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight: bold;}
+a:hover{text-decoration: underline;}
+.bg-ye { background: #fff9dc;}
+.bg-gr { background: #e5ffe7;}
+.bg-re { background: #ffe5e5;}
+.card {padding: 10px;
+  border-radius: 20px;
+    margin-bottom: 10px;}
+.tabl {width: 100%;}
+.forma label{
+    display: block;
+    font-size: 14px;
+    color: rgb(13, 9, 9);}
+.forma input,
+.forma textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid rgb(156, 152, 152);
+    color: black;
+    padding: 15px 0 10px;
+     font-family: inherit;}
+    h2 {text-align: left;font-style: italic;}
+    .button {
+        color: whitesmoke;
+        padding: 15px 20px;
+        background: green;
+        font-family: inherit;
+        cursor: pointer;
+    }
+    .button :hover{
+        opacity: 0,9;
+    }
